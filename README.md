@@ -34,6 +34,8 @@ Tujuan Proyek:
 # Author
 Nada Almira Maulida 
 235150701111028 
+
 Teknologi Informasi – Fakultas Ilmu Komputer  
 
 Universitas Brawijaya, 2025
+
